@@ -1,0 +1,21 @@
+{
+  "user_id": "user_123",
+  "knowledge_levels": {
+    "calculus": {
+      "level": "beginner",
+      "detailed_description": "Understands basic ideas such as functions and limits, but is not confident with derivative rules, chain rule, or problem-solving applications."
+    },
+    "algebra": {
+      "level": "intermediate",
+      "detailed_description": "Comfortable with equations, manipulating expressions, and basic functions; can simplify moderately complex algebraic forms."
+    },
+    "astronomy": {
+      "level": "beginner",
+      "detailed_description": "Knows basic celestial objects (stars, planets, galaxies) but has limited understanding of astrophysics concepts, orbital mechanics, or observational techniques."
+    },
+    "general_science": {
+      "level": "intermediate",
+      "detailed_description": "Has a broad understanding of scientific reasoning and core topics (physics, chemistry, biology) at a conceptual level, but lacks advanced technical depth."
+    }
+  }
+}

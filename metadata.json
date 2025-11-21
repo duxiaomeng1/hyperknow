@@ -1,0 +1,72 @@
+{
+  "files": [
+    {
+      "title": "301F09.Ch16.Sun.Slides.pdf",
+      "file_path": "/Users/duxiaomeng/homework/document/301F09.Ch16.Sun.Slides.pdf",
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/zvdtt9dnr5gx",
+      "mime_type": "application/pdf",
+      "size_bytes": 2033252,
+      "content_summary": "This PDF introduces the Sun's physical properties, internal structure, atmosphere, solar activities, nuclear fusion, and the observation of solar neutrinos.",
+      "topics": [
+        "astronomy",
+        "physics"
+      ],
+      "processed_at": "2025-11-19 12:07:08"
+    },
+    {
+      "title": "301F09.IntroOrbitsLight.I.pdf",
+      "file_path": "/Users/duxiaomeng/homework/document/301F09.IntroOrbitsLight.I.pdf",
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/ahz8p00np4ao",
+      "mime_type": "application/pdf",
+      "size_bytes": 1184169,
+      "content_summary": "This PDF introduces introductory concepts for a course, focusing on scientific notation, units of measurement (like distance and angles), and ultimately leads into Kepler's laws of planetary motion, including their empirical nature and the transition from geocentric to heliocentric models.\n",
+      "topics": [
+        "astronomy",
+        "physics",
+        "history"
+      ],
+      "processed_at": "2025-11-19 12:07:32"
+    },
+    {
+      "title": "301F09.LecturesCh3.5_4.pdf",
+      "file_path": "/Users/duxiaomeng/homework/document/301F09.LecturesCh3.5_4.pdf",
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/vek1egcr62ev",
+      "mime_type": "application/pdf",
+      "size_bytes": 2102391,
+      "content_summary": "This PDF mainly explains the Doppler effect, atoms and radiation, the formation of spectral lines, molecules, and spectral line analysis. It provides us with information including chemical composition, temperature, and radial velocity.",
+      "topics": [
+        "astronomy",
+        "physics"
+      ],
+      "processed_at": "2025-11-19 12:07:59"
+    },
+    {
+      "title": "301F09Scalo.IntOrbLight.II.pdf",
+      "file_path": "/Users/duxiaomeng/homework/document/301F09Scalo.IntOrbLight.II.pdf",
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/a7ibg7oghcoz",
+      "mime_type": "application/pdf",
+      "size_bytes": 1302972,
+      "content_summary": "The PDF covers Newton's laws of motion and gravity, the properties of light, and the basics of spectroscopy to learn about astronomical objects.\n",
+      "topics": [
+        "astronomy",
+        "physics"
+      ],
+      "processed_at": "2025-11-19 12:08:23"
+    },
+    {
+      "title": "301F09.TelescopesCh5.9.16.09.pdf",
+      "file_path": "/Users/duxiaomeng/homework/document/301F09.TelescopesCh5.9.16.09.pdf",
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/4q4vepfuvm23",
+      "mime_type": "application/pdf",
+      "size_bytes": 2101763,
+      "content_summary": "This PDF introduces the principles of telescopes, including light-gathering ability, resolution limits, different types of telescopes (optical, infrared, X-ray, gamma-ray) and their observational characteristics, as well as techniques used to improve resolution, such as adaptive optics and interferometry.\n",
+      "topics": [
+        "astronomy",
+        "physics"
+      ],
+      "processed_at": "2025-11-19 12:08:49"
+    }
+  ],
+  "generated_at": "2025-11-19 12:06:36",
+  "total_files": 5
+}
